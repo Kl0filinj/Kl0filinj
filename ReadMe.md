@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on improving myself like Front-End/FullStack developer<br>🌱 I’m currently learning everything related with JS<br>📫 How to reach me: https://t.me/kl0filinj<br>⚡ Fun fact: Coding is exactly what I love
 
 
